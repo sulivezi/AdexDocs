@@ -1,0 +1,2 @@
+# AdexDocs
+Dokumenta te adex
